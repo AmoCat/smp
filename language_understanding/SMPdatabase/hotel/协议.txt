@@ -1,0 +1,6 @@
+gpsLat	Float	纬度
+gpsLng	Float	经度
+name	String	酒店名称
+city	String	城市
+address	String	地址
+price	String	价格

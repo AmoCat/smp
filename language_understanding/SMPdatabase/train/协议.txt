@@ -1,0 +1,10 @@
+trainNo	 String	车次
+trainType	String	火车类型
+originStation	String	起始站
+terminalStation	String	终点站
+startTime	String	始发时间
+arrivalTime	String	终点站时间
+runTime	String	全程运行时间
+price	object	全程票价
+price.name	String	票价类别
+price.value	String	票价
